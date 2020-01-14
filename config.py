@@ -21,8 +21,8 @@ CONFIG = transmogrifier.Config(
         version = '2.0.4',
         revision = '1',
         app_id = 'com.gotransitapp.huntsville',
-        app_store_id = 'REPLACE_ME',
-        app_store_url = 'https://apps.apple.com/us/app/gohuntsville/idREPLACE_ME'
+        app_store_id = '1494807745',
+        app_store_url = 'https://apps.apple.com/us/app/go-huntsville/id1494807745'
     ),
     android_config = transmogrifier.MontclairAndroidConfig(
         version = '1.0.2',
